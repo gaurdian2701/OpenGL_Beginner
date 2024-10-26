@@ -1,2 +1,2 @@
-# OpenGL_Beginner
-A repo for learning OpenGL
+# OpenGL-stuff
+A repo I made for openGL references

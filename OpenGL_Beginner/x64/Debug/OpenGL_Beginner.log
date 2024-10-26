@@ -1,0 +1,6 @@
+﻿  Window.cpp
+C:\Users\gaurd\Desktop\Game Dev - Personal\OpenGL\Projects\OpenGL_Beginner\Window.cpp(93,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\gaurd\Desktop\Game Dev - Personal\OpenGL\Projects\OpenGL_Beginner\Window.cpp(93,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\gaurd\Desktop\Game Dev - Personal\OpenGL\Projects\OpenGL_Beginner\Window.cpp(93,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\gaurd\Desktop\Game Dev - Personal\OpenGL\Projects\OpenGL_Beginner\Window.cpp(98,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL_Beginner.vcxproj -> C:\Users\gaurd\Desktop\Game Dev - Personal\OpenGL\Projects\OpenGL_Beginner\x64\Debug\OpenGL_Beginner.exe

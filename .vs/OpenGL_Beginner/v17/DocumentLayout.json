@@ -7,7 +7,8 @@
       "RelativeMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|solutionrelative:Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|C:\\USERS\\GAURD\\DESKTOP\\OTHER APPS\\GLFW-3.4\\HEADERS AND LIBRARIES\\INCLUDE\\OPENGL\\INCLUDE\\GLAD\\GLAD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\vs_triangle1.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|solutionrelative:vs_triangle1.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\fs_triangle2.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -16,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\fs_triangle1.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|solutionrelative:fs_triangle1.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\vs_triangle1.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|solutionrelative:vs_triangle1.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FADF3126-2763-46B1-AF55-8D1350E24AF4}|OpenGL_Beginner.vcxproj|C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\Shader.h||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -43,27 +40,23 @@
               "RelativeDocumentMoniker": "Window.cpp",
               "ToolTip": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\Window.cpp",
               "RelativeToolTip": "Window.cpp",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAiwFwAAAAjAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAD4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-26T19:11:42.741Z",
+              "WhenOpened": "2024-11-28T18:48:13.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "glad.h",
-              "DocumentMoniker": "C:\\Users\\gaurd\\Desktop\\Other Apps\\glfw-3.4\\Headers and Libraries\\Include\\OpenGL\\include\\glad\\glad.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Other Apps\\glfw-3.4\\Headers and Libraries\\Include\\OpenGL\\include\\glad\\glad.h",
-              "ToolTip": "C:\\Users\\gaurd\\Desktop\\Other Apps\\glfw-3.4\\Headers and Libraries\\Include\\OpenGL\\include\\glad\\glad.h",
-              "RelativeToolTip": "..\\..\\..\\..\\Other Apps\\glfw-3.4\\Headers and Libraries\\Include\\OpenGL\\include\\glad\\glad.h",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAvwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-26T19:09:43.605Z",
+              "Title": "vs_triangle1.glsl",
+              "DocumentMoniker": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\vs_triangle1.glsl",
+              "RelativeDocumentMoniker": "vs_triangle1.glsl",
+              "ToolTip": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\vs_triangle1.glsl",
+              "RelativeToolTip": "vs_triangle1.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T17:56:02.056Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -73,10 +66,9 @@
               "RelativeDocumentMoniker": "fs_triangle2.glsl",
               "ToolTip": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\fs_triangle2.glsl",
               "RelativeToolTip": "fs_triangle2.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T18:01:08.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T18:01:08.818Z"
             },
             {
               "$type": "Document",
@@ -86,36 +78,21 @@
               "RelativeDocumentMoniker": "fs_triangle1.glsl",
               "ToolTip": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\fs_triangle1.glsl",
               "RelativeToolTip": "fs_triangle1.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T17:58:51.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T17:58:51.207Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "vs_triangle1.glsl",
-              "DocumentMoniker": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\vs_triangle1.glsl",
-              "RelativeDocumentMoniker": "vs_triangle1.glsl",
-              "ToolTip": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\vs_triangle1.glsl",
-              "RelativeToolTip": "vs_triangle1.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T17:56:02.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Shader.h",
               "DocumentMoniker": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\Shader.h",
               "RelativeDocumentMoniker": "Shader.h",
               "ToolTip": "C:\\Users\\gaurd\\Desktop\\Game Dev - Personal\\OpenGL\\Projects\\OpenGL_Beginner\\Shader.h",
               "RelativeToolTip": "Shader.h",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAACMAAAAoAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAACIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-26T09:04:16.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T09:04:16.115Z"
             }
           ]
         }
